@@ -16,13 +16,30 @@ I design and ship production-ready backend systems and cloud-native platforms â€
 
 ---
 
+
 ## ðŸ’¡ Core Expertise
 
-- Backend: Python, FastAPI, Node.js, PostgreSQL, Redis, Kafka
+- Backend: Python, Go, C++, FastAPI, Node.js, PostgreSQL, Redis, Kafka
 - Platform & Cloud: Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
 - AI & LLMs: OpenAI API, LangChain, LlamaIndex, vector DBs (FAISS/Chroma/Weaviate), Retrieval+Generation (RAG), ReAct, AutoGPT
 - System Design: Microservices, event-driven architectures, scalability, observability (Prometheus/Grafana/ELK)
 - Leadership: Open-source contributions, architecture decision records (ADR), mentoring, operational runbooks
+
+---
+
+## ðŸ¤– AI Engineering Skills
+
+- LLM application design (prompt engineering, RAG, tool use, agent orchestration)
+- Multi-agent systems and workflow automation
+- Vector database integration and semantic search
+- Evaluation, monitoring, and observability for AI systems
+
+## ðŸ§  AI Software Engineer Skills
+
+- Building production-grade AI/ML pipelines
+- Integrating LLMs with backend and cloud-native systems
+- API design for AI services (REST, gRPC, WebSocket)
+- Testing, CI/CD, and deployment of AI-powered applications
 
 ---
 
@@ -38,6 +55,8 @@ I design and ship production-ready backend systems and cloud-native platforms â€
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>

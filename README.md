@@ -52,6 +52,7 @@ Python • Go • C++ • FastAPI • PostgreSQL • Kubernetes • Docker • T
 - Flight-Advisor — end-to-end travel demo with integrations and deployable examples
 - LeetCode — curated algorithm solutions for interviews and problem-solving
 
+
 *(Add one-line outcomes or links to demos/screenshots for each project)*
 
 ---
@@ -60,7 +61,7 @@ Python • Go • C++ • FastAPI • PostgreSQL • Kubernetes • Docker • T
 
 1. Create a repository named exactly after your GitHub username (e.g. `VenkataAnilKumar`).
 2. Copy this `README.md` into that repo.
-3. Customize links, pinned repos, and add visuals under `/assets/`.
+3. Customize links and pinned repos; add visuals under `/assets/` when ready.
 
 ---
 

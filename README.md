@@ -4,6 +4,10 @@
 
 Senior Software Engineer • Backend, Platform & Cloud • AI / LLMs / Agents
 
+I design and ship production-ready backend systems and cloud-native platforms — now building end-to-end LLMs, autonomous agents, and infrastructure for production AI.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataanilkumar/) [![Website](https://img.shields.io/badge/Website-venkataanilkumar.dev-333333)](https://venkataanilkumar.dev) [![Email](https://img.shields.io/badge/Email-hello%40venkataanilkumar.dev-DD0031)](mailto:hello@venkataanilkumar.dev)
+
 ---
 
 ## 👨‍💻 About Me

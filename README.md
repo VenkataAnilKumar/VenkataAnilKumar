@@ -1,79 +1,63 @@
-# 👋 Hi — I'm Venkata Anil Kumar
+Hi — I'm Venkata Anil Kumar
 
-Senior Software Engineer — Backend, Cloud & Platform, with an AI (LLMs & Agents) focus.
+Senior Software Engineer • Backend, Cloud & Platform • AI / LLMs / Agents
 
-I build production-ready backend systems and cloud-native platforms. Currently designing end-to-end LLM applications, autonomous agents, and AI infrastructure that run in production.
-
-[LinkedIn](https://www.linkedin.com/in/venkataanilkumar/) • [Website](https://venkataanilkumar.dev) • [Email](mailto:hello@venkataanilkumar.dev)
+I build production-ready backend systems and cloud-native platforms. Currently designing end-to-end LLMs, autonomous agents, and AI infrastructure for real-world applications.
 
 ---
 
-## Focus
+Focus Areas
 
-AI / LLMs / Agents • RAG • Vector DBs • Cloud-native platforms • Production AI
-
+AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • Production AI
 ---
 
-## Expertise
+Expertise
 
-- Backend & Databases — Python, Go, C++, FastAPI, PostgreSQL
-- Cloud & Platform — Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
-- AI Systems — LangChain, LlamaIndex, OpenAI API, FAISS, Chroma, Weaviate, RAG, multi-agent orchestration
-- Observability & SRE — Prometheus, Grafana, ELK, SLOs, monitoring & alerting
-- Leadership & Docs — ADRs, runbooks, mentoring, open-source contributions
-
+Backend & Databases: Python, Go, C++, FastAPI, Node.js, PostgreSQL, Redis, Kafka
+Cloud & Platform: Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
+AI Systems: LangChain, LlamaIndex, OpenAI API, FAISS, Chroma, Weaviate, RAG, multi-agent orchestration, vector DB integration, semantic search, production AI pipelines
+Observability & SRE: Prometheus, Grafana, ELK, SLOs, monitoring & alerting
+Leadership & Documentation: Architecture decision records (ADR), runbooks, mentoring, open-source contributions
 ---
 
-## Tech stack
+Tech Stack Badge
 
-Python • Go • C++ • FastAPI • PostgreSQL • Kubernetes • Docker • Terraform • AWS • Azure • OpenAI • LangChain • LlamaIndex • FAISS • Chroma • Weaviate • Prometheus • Grafana
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
-</p>
-
+Python • Go • C++ • FastAPI • Node.js • PostgreSQL • Redis • Kafka • Kubernetes • Docker • Terraform • AWS • Azure • GitHub Actions • ArgoCD • OpenAI • LangChain • LlamaIndex • FAISS • Chroma • Weaviate • Prometheus • Grafana
 ---
 
-## Documentation & demos
+Documentation & Demos
 
-- Architecture: add diagrams and ADRs under `/architecture/`.
-- Runbooks & Playbooks: keep `runbook.md` with on‑call steps and rollbacks.
-- Demos: GIFs and short README walkthroughs for end-to-end projects.
+Architecture: /architecture folder with diagrams, ADRs, and trade-offs.
+
+Runbooks & Playbooks: runbook.md with on-call steps, rollback guides, and SLOs.
+
+Demos: GIFs and README walkthroughs for end-to-end projects.
 
 ![Architecture diagram](./assets/architecture-diagram.png)
+---
+
+Pinned Repos
+
+🔹 AlgoMaster-Studio – Full-stack platform and tooling projects showcasing system design and CI/CD best practices.
+
+🔹 Flight-Advisor – End-to-end travel/booking demo with backend services, integrations, and deployment examples.
+
+🔹 LeetCode – Curated algorithm solutions for interviews and problem-solving.
+---
+
+
+How to Use This README
+
+Create a repo named exactly after your GitHub username (e.g., VenkataAnilKumar). Copy this README.md into that repo and customize links, pinned repos, and visuals (`/assets/demo.gif`, `/assets/architecture-diagram.png`).
+
+Connect
+
+LinkedIn: linkedin.com/in/venkataanilkumar
+
+Twitter/X: twitter.com/venkataanilk
+
+Website: venkataanilkumar.dev
 
 ---
 
-## Pinned Projects
-
-- [AlgoMaster-Studio](https://github.com/VenkataAnilKumar/AlgoMaster-Studio) — platform tooling and system-design examples.
-- [Flight-Advisor](https://github.com/VenkataAnilKumar/Flight-Advisor) — end-to-end service demo with integrations and deployments.
-- [LeetCode](https://github.com/VenkataAnilKumar/LeetCode) — algorithm solutions and interview practice.
-
----
-
-## How to use this README
-
-1. Create a repo named exactly after your GitHub username (e.g. `VenkataAnilKumar`).
-2. Copy this `README.md` into that repo.
-3. Update links, pinned repos, and add visuals in `/assets/`.
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/venkataanilkumar/
-- Twitter/X: https://twitter.com/venkataanilk
-- Website: https://venkataanilkumar.dev
-
----
-
-If you'd like, I can now:
-
-- embed a short demo GIF (drop it into `assets/demo.gif`) and I’ll insert it into the README, or
-- add a short
+If you'd like, I can embed a demo GIF (drop it into `assets/demo.gif`) or add a featured project section with screenshots.

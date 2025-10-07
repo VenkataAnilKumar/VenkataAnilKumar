@@ -30,13 +30,19 @@ Python • Go • C++ • FastAPI • PostgreSQL • Kubernetes • Docker • T
 
 ---
 
-## Documentation & Demos
+## Highlights
 
-- Architecture: `/architecture/` — diagrams, ADRs, and trade-offs
-- Runbooks & Playbooks: `runbook.md` — on-call steps and rollback procedures
-- Demos: GIFs and concise README walkthroughs for end-to-end projects
+- 9+ years building production backend systems and cloud-native platforms
+- Designed and launched production AI integrations (LLMs, RAG, vector DBs)
+- Strong focus on reliability, observability, and repeatable platform patterns
 
-![Architecture diagram](./assets/architecture-diagram.png)
+---
+
+## Open to
+
+- Collaboration on AI + platform projects
+- Mentoring & architecture reviews
+- Speaking or workshops on production LLMs and cloud-native systems
 
 ---
 

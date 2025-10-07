@@ -27,7 +27,7 @@ I design and ship production-ready backend systems and cloud-native platforms �
 
 ---
 
-## 🤖 AI Engineering Skills
+## 🤖 AI Engineer Skills
 
 - LLM application design (prompt engineering, RAG, tool use, agent orchestration)
 - Multi-agent systems and workflow automation

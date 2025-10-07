@@ -33,9 +33,6 @@ I design and ship production-ready backend systems and cloud-native platforms â€
 - Multi-agent systems and workflow automation
 - Vector database integration and semantic search
 - Evaluation, monitoring, and observability for AI systems
-
-## ðŸ§  AI Software Engineer Skills
-
 - Building production-grade AI/ML pipelines
 - Integrating LLMs with backend and cloud-native systems
 - API design for AI services (REST, gRPC, WebSocket)

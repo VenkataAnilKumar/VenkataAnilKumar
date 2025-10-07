@@ -1,7 +1,5 @@
 # 👋 Hi — I'm Venkata Anil Kumar
 
-![header](https://github.com/VenkataAnilKumar.png?size=160)
-
 Senior Software Engineer • Backend, Platform & Cloud • AI / LLMs / Agents
 
 I design and ship production-ready backend systems and cloud-native platforms — now building end-to-end LLMs, autonomous agents, and infrastructure for production AI.
@@ -65,20 +63,18 @@ I design and ship production-ready backend systems and cloud-native platforms �
 
 ---
 
-## � Pinned Projects
+## 📌 Pinned Projects
 
 <!-- Cards link directly to the repo pages; update names if you prefer different repo slugs -->
 
+### 🔹 AlgoMaster-Studio
+- Repo: [VenkataAnilKumar/AlgoMaster-Studio](https://github.com/VenkataAnilKumar/AlgoMaster-Studio) — full-stack platform and tooling projects demonstrating system design, CI/CD, and production patterns.
+
+### 🔹 Flight-Advisor
+- Repo: [VenkataAnilKumar/Flight-Advisor](https://github.com/VenkataAnilKumar/Flight-Advisor) — end-to-end travel/booking demo with backend services, integrations, and deployment examples.
+
 ### 🔹 LeetCode
 - Repo: [VenkataAnilKumar/LeetCode](https://github.com/VenkataAnilKumar/LeetCode) — collection of algorithm solutions, useful for interviews and algorithmic problem-solving.
-
-### 🔹 platform-templates
-- Repo: [VenkataAnilKumar/platform-templates](https://github.com/VenkataAnilKumar/platform-templates) — Terraform + Kubernetes templates, GitOps examples, CI/CD pipelines and deployable references.
-
-### 🔹 ai-agents
-- Repo: [VenkataAnilKumar/ai-agents](https://github.com/VenkataAnilKumar/ai-agents) — end-to-end agent demos using LangChain, RAG, vector DBs, and orchestration playbooks.
-
----
 
 ---
 

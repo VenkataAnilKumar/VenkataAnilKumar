@@ -1,0 +1,98 @@
+# 👋 Hi — I'm Venkata Anil Kumar
+
+![header](https://github.com/VenkataAnilKumar.png?size=160)
+
+Senior Software Engineer • Backend, Platform & Cloud • AI / LLMs / Agents
+
+---
+
+## 👨‍💻 About Me
+
+- 9+ years building production-ready backend systems, distributed platforms, and cloud-native infrastructure.
+- Today I focus on AI Engineering: Large Language Models (LLMs), autonomous agents, multi-agent orchestration, and production-grade integrations.
+- I enjoy turning research and prototypes into reliable systems that serve real users with observability, resilience, and cost-efficiency.
+
+---
+
+## 💡 Core Expertise
+
+- Backend: Python, FastAPI, Node.js, PostgreSQL, Redis, Kafka
+- Platform & Cloud: Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
+- AI & LLMs: OpenAI API, LangChain, LlamaIndex, vector DBs (FAISS/Chroma/Weaviate), Retrieval+Generation (RAG), ReAct, AutoGPT
+- System Design: Microservices, event-driven architectures, scalability, observability (Prometheus/Grafana/ELK)
+- Leadership: Open-source contributions, architecture decision records (ADR), mentoring, operational runbooks
+
+---
+
+## 🚀 Career Goals
+
+- Ship end-to-end AI systems that combine LLMs, knowledge retrieval, and fault-tolerant orchestration.
+- Build and publish open-source tooling for AI + platform engineering.
+- Mentor engineers and document reproducible patterns for scaling ML-enabled services.
+
+---
+
+## 🛠️ Tech Stack & Badges
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2B2D42?logo=langchain&logoColor=white"/>
+</p>
+
+---
+
+## 🔭 Selected Projects (suggested pinned repos)
+
+- End-to-end AI Agents — a demo repo showing LangChain + multi-agent orchestration with observability and orchestration playbooks.
+- Platform Templates — production-ready Kubernetes + Terraform templates, GitOps (ArgoCD) examples, CI/CD pipelines.
+- Microservice Boilerplate — FastAPI service with PostgreSQL, Redis, Kafka, tests, Docker, GitHub Actions.
+
+> Tip: Pin 3–6 repositories on your profile that show breadth: one AI end-to-end, one infra/template, and one backend system.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkataAnilKumar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataAnilKumar&layout=compact&theme=radical)
+
+---
+
+## 📚 Writing & Docs
+
+- Architecture docs: keep an `architecture/` folder per repo with diagrams, ADRs, and tradeoffs.
+- Runbooks & Playbooks: include `runbook.md` for on-call steps, Rollback guides, and SLOs.
+- Demos: add short GIFs and README walkthroughs for end-to-end projects.
+
+---
+
+## 🎯 How to use this README
+
+1. Create (or open) a repository named exactly after your GitHub username (e.g. `VenkataAnilKumar`).
+2. Copy the contents of this file into that repository's `README.md` so it becomes your profile README.
+3. Customize links, pinned repo names, and visuals (`/assets/demo.gif`, `/assets/architecture-diagram.png`).
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/venkataanilkumar/
+- Twitter/X: https://twitter.com/venkataanilk
+- Website: https://venkataanilkumar.dev (update if different)
+
+---
+
+> If you want, I can:
+
+- generate a polished README specifically tailored to one pinned repo (with GIF, architecture diagram and short demo script), or
+- create a ready-to-pin `username/README.md` in this workspace so you can copy it straight to your profile repo.

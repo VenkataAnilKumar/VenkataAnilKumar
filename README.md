@@ -61,7 +61,24 @@ Senior Software Engineer • Backend, Platform & Cloud • AI / LLMs / Agents
 
 ---
 
-## 📊 GitHub Stats
+## � Pinned Projects
+
+<!-- Cards link directly to the repo pages; update names if you prefer different repo slugs -->
+
+### 🔹 LeetCode
+- Repo: [VenkataAnilKumar/LeetCode](https://github.com/VenkataAnilKumar/LeetCode) — collection of algorithm solutions, useful for interviews and algorithmic problem-solving.
+
+### 🔹 platform-templates
+- Repo: [VenkataAnilKumar/platform-templates](https://github.com/VenkataAnilKumar/platform-templates) — Terraform + Kubernetes templates, GitOps examples, CI/CD pipelines and deployable references.
+
+### 🔹 ai-agents
+- Repo: [VenkataAnilKumar/ai-agents](https://github.com/VenkataAnilKumar/ai-agents) — end-to-end agent demos using LangChain, RAG, vector DBs, and orchestration playbooks.
+
+---
+
+---
+
+## �📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkataAnilKumar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataAnilKumar&layout=compact&theme=radical)

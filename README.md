@@ -8,21 +8,12 @@ I design and ship production-ready backend systems and cloud-native platforms �
 
 ---
 
-## 👨‍💻 About Me
+##  Core Expertise
 
-- 9+ years building production-ready backend systems, distributed platforms, and cloud-native infrastructure.
-- Today I focus on AI Engineering: Large Language Models (LLMs), autonomous agents, multi-agent orchestration, and production-grade integrations.
-- I enjoy turning research and prototypes into reliable systems that serve real users with observability, resilience, and cost-efficiency.
-
----
-
-
-## 💡 Core Expertise
-
-- Backend: Python, Go, C++, FastAPI, Node.js, PostgreSQL, Redis, Kafka
+- Backend: Python, Go, C++, FastAPI, PostgreSQL
 - Platform & Cloud: Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
-- AI & LLMs: OpenAI API, LangChain, LlamaIndex, vector DBs (FAISS/Chroma/Weaviate), Retrieval+Generation (RAG), ReAct, AutoGPT
-- System Design: Microservices, event-driven architectures, scalability, observability (Prometheus/Grafana/ELK)
+- AI & LLMs: OpenAI API, LangChain, LlamaIndex, vector DBs (FAISS/Chroma/Weaviate), Retrieval-Augmented Generation (RAG), agent orchestration patterns
+- Observability & SRE: Prometheus, Grafana, ELK, SLOs, monitoring and alerting
 - Leadership: Open-source contributions, architecture decision records (ADR), mentoring, operational runbooks
 
 ---
@@ -33,22 +24,29 @@ I design and ship production-ready backend systems and cloud-native platforms �
 - Multi-agent systems and workflow automation
 - Vector database integration and semantic search
 - Evaluation, monitoring, and observability for AI systems
-- Building production-grade AI/ML pipelines
-- Integrating LLMs with backend and cloud-native systems
-- API design for AI services (REST, gRPC, WebSocket)
-- Testing, CI/CD, and deployment of AI-powered applications
+- Building production-grade AI/ML pipelines and integrations
+- API design for AI services (REST, gRPC) and testing/CI/CD for ML-enabled systems
 
 ---
 
-## 🚀 Career Goals
+## �️ Tech Stack & Badges
 
-- Ship end-to-end AI systems that combine LLMs, knowledge retrieval, and fault-tolerant orchestration.
-- Build and publish open-source tooling for AI + platform engineering.
-- Mentor engineers and document reproducible patterns for scaling ML-enabled services.
-
----
-
-## 🛠️ Tech Stack & Badges
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2B2D42?logo=langchain&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-34495E?logo=prometheus&logoColor=white"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
+</p>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>

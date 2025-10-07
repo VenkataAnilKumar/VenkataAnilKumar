@@ -30,6 +30,18 @@ AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • P
 
 Python • Go • C++ • FastAPI • Node.js • PostgreSQL • Redis • Kafka • Kubernetes • Docker • Terraform • AWS • Azure • GitHub Actions • ArgoCD • OpenAI • LangChain • LlamaIndex • FAISS • Chroma • Weaviate • Prometheus • Grafana
 
+<!-- Badge row -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2B2D42?logo=langchain&logoColor=white"/>
+</p>
+
 ## Documentation & Demos
 
 **Architecture:** /architecture folder with diagrams, ADRs, and trade-offs.
@@ -37,6 +49,8 @@ Python • Go • C++ • FastAPI • Node.js • PostgreSQL • Redis • Kafka
 **Runbooks & Playbooks:** runbook.md with on-call steps, rollback guides, and SLOs.
 
 **Demos:** GIFs and README walkthroughs for end-to-end projects.
+
+![Architecture diagram](./assets/architecture-diagram.png)
 
 ## How to Use This README
 

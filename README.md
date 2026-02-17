@@ -72,15 +72,14 @@ AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • P
 
 ## Key Projects (pin these)
 
-- AlgoMaster-Studio — platform tooling and system-design examples (CI/CD, infra patterns)
-- Flight-Advisor — end-to-end travel demo with integrations and deployable examples
-- LeetCode — curated algorithm solutions for interviews and problem-solving
-
+- Agentic-AI-Engineer
+- System-Design-Case-Studies
+- GenAIPlatform
+- GenerativeAIProjects
 
 *(Add one-line outcomes or links to demos/screenshots for each project)*
 
 ---
-
 
 
 ## Connect

@@ -51,7 +51,6 @@ AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • P
 ---
 
 
-
 ## Highlights
 
 - 7+ years building and scaling production backend systems and cloud-native platforms
@@ -72,12 +71,10 @@ AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • P
 
 ## Key Projects (pin these)
 
-- Agentic-AI-Engineer
-- System-Design-Case-Studies
-- GenAIPlatform
-- GenerativeAIProjects
-
-*(Add one-line outcomes or links to demos/screenshots for each project)*
+- **[Agentic-AI-Engineer](https://github.com/VenkataAnilKumar/Agentic-AI-Engineer)** — Curated collection of resources, tools, and case studies for building autonomous AI agents and intelligent orchestration systems
+- **[System-Design-Case-Studies](https://github.com/VenkataAnilKumar/System-Design-Case-Studies)** — Real-world system design case studies with architecture breakdowns, scalability patterns, and design decisions
+- **[GenAIPlatform](https://github.com/VenkataAnilKumar/GenAIPlatform)** — Production-ready, cloud-agnostic GenAI platform with unified API, RAG pipelines, vector stores, and full observability stack
+- **[GenerativeAIProjects](https://github.com/VenkataAnilKumar/GenerativeAIProjects)** — Enterprise-grade GenAI platform with LLM apps, multimodal systems, LLMOps, and cloud deployment templates for AWS/Azure/GCP
 
 ---
 

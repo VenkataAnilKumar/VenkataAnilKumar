@@ -120,52 +120,37 @@ AI-powered startup control plane with a unified memory graph across GTM, hiring,
 
 ---
 
-## Skill Sets by Role
+## Skills
 
-### AI Engineer
-- LLM API integration (Anthropic, OpenAI, Bedrock) — streaming, tool use, structured output
-- Prompt engineering: system prompt design, few-shot, chain-of-thought, ReAct, Plan-and-Execute
-- Retrieval-Augmented Generation (RAG) — chunking strategies, embedding pipelines, hybrid search
-- Vector store design: Qdrant, Pinecone, pgvector — namespace strategy, filtering, ANN tuning
-- Extended Thinking (Claude Opus 4.6 budget_tokens) for deep reasoning tasks
-- LLM evaluation: relevance, hallucination rate, schema compliance, edit rate — Langfuse + CI gates
-- Token cost optimization: model routing (Opus → Sonnet → Haiku), context compression, caching
+**LLM & AI**
+— LLM API integration · Prompt engineering (ReAct, CoT, Plan-and-Execute, few-shot) · Extended Thinking
+— RAG pipelines · Embedding design · Hybrid search · Vector store tuning (Qdrant, pgvector, Pinecone)
+— Structured output & schema validation · Hallucination detection · Token cost optimization & model routing
 
-### Agentic AI Engineer
-- Multi-agent orchestration: Orchestrator-Workers pattern, A2A protocol, agent-to-agent context handoff
-- Agent memory architecture: short-term (Redis), long-term (Qdrant vectors), structured (PostgreSQL)
-- Cognitive loop design: Perceive → Reason → Act → Validate → Reflect (ReAct in production)
-- Tool use & MCP: Tavily, HubSpot, Slack, GA4 — scope-gated execution with param validation
-- Output validation: Pydantic schema gates + hallucination heuristics on every agent response
-- Async agentic pipelines: Celery task queues, Redis pub/sub, SSE streaming to frontend
-- Agent SDK: Claude Agent SDK, LangChain, LlamaIndex — framework selection and trade-off analysis
+**Agentic Systems**
+— Multi-agent orchestration (Orchestrator-Workers, A2A) · Cognitive loop design (Perceive → Reason → Act → Validate)
+— Agent memory architecture: short-term (Redis) · long-term (Qdrant) · structured (PostgreSQL)
+— Tool use & MCP servers · Scope-gated execution · Output validation gates · HITL pipeline design
+— Async agentic pipelines: Celery · Redis pub/sub · SSE streaming · Long-horizon task execution
+— Agent evaluation: relevance · hallucination rate · schema compliance · edit rate · CI regression gates
 
-### Autonomous AI Engineer
-- Self-directed agent loop design: goal decomposition, subgoal generation, autonomous re-planning
-- Human-in-the-Loop (HITL) workflow architecture: structural pipeline pause/resume, not UX layer
-- Long-horizon task execution: multi-step planning with state persistence across sessions
-- Failure recovery: retry logic, fallback agents, graceful degradation under tool unavailability
-- Agent evaluation at scale: automated regression baselines, PR-blocking quality gates in CI/CD
-- Autonomous monitoring agents: anomaly detection, self-healing infrastructure, alert suppression
-- Safety constraints: scope enforcement, confirmation gates, action reversibility checks
+**Backend & APIs**
+— Python 3.12 · FastAPI · Celery · SQLAlchemy 2.x · Alembic · REST · WebSockets · SSE
+— PostgreSQL · Redis · Schema design for AI workloads · Async DB patterns
+— Go · Docker · GitHub Actions · AWS Lambda · AWS ECS · AWS CDK v2 · Kubernetes · Terraform
 
-### Forward Deployed Engineer
-- Rapid prototyping: idea → working demo in days using AI-first development workflows
-- Customer-facing AI system design: translating business requirements into agent architectures
-- Integration engineering: REST APIs, webhooks, CRM (HubSpot), analytics (GA4), messaging (Slack)
-- Demo engineering: live agent pipelines, real-time SSE streaming, HITL approval UX
-- Technical discovery: system audits, gap analysis, AI readiness assessment for enterprise customers
-- On-site solutioning: whiteboarding agent architectures, scoping MVPs, unblocking implementations
-- Cross-functional communication: translating AI system complexity for non-technical stakeholders
+**Frontend & Full-Stack**
+— Next.js 15 (App Router, PPR, Server Components) · React 19 · TypeScript · Tailwind v4
+— Real-time streaming UI · Zustand v5 · TanStack Query v5 · Clerk auth · shadcn/ui · Tauri 2.x
 
-### AI Software Engineer
-- Full-stack AI product development: FastAPI backend + Next.js 15 frontend + agent layer
-- Production code quality: type safety (Pydantic v2, TypeScript strict), 90%+ test coverage, CI gates
-- Database design for AI workloads: schema design, async SQLAlchemy, Alembic migrations
-- Real-time systems: Server-Sent Events, Redis pub/sub, WebSocket streaming for live agent output
-- Security-aware AI development: OWASP mitigations, Clerk JWT auth, rate limiting, PII scrubbing
-- DevOps for AI: GitHub Actions pipelines, Docker, AWS CDK v2, Lambda per-agent deployment
-- Observability: Langfuse traces, Sentry error tracking, structured logging, p50/p95 latency monitoring
+**Deployment & Observability**
+— Langfuse · LangSmith · Sentry · Prometheus · Grafana · Structured logging · p50/p95 latency
+— Vercel · AWS CDK · CI/CD pipelines · Per-agent Lambda deployment · Docker Compose
+
+**Product & Solutioning**
+— AI system design from first principles · Tech stack trade-off documentation · PRD & ADR writing
+— Rapid prototyping (idea → working demo in days) · Integration engineering (HubSpot · Slack · GA4)
+— Security-aware development: OWASP · JWT auth · rate limiting · PII scrubbing · GDPR posture
 
 ---
 

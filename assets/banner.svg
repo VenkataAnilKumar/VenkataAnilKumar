@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860" height="160" viewBox="0 0 860 160"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-label="Venkata Anil Kumar — AI Engineer">
+
+  <!-- Background -->
+  <rect width="860" height="160" fill="#0d1117"/>
+
+  <!-- Glow orbs -->
+  <ellipse cx="120" cy="60" rx="180" ry="100"
+           fill="radial-gradient(circle, rgba(88,166,255,0.15), transparent)"/>
+  <circle cx="80" cy="70" r="140"
+          fill="rgba(88,166,255,0.07)"/>
+  <circle cx="760" cy="90" r="120"
+          fill="rgba(63,185,80,0.07)"/>
+
+  <!-- Accent line top -->
+  <rect width="860" height="2" fill="url(#topLine)"/>
+  <defs>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#3fb950" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6edf3"/>
+      <stop offset="100%" stop-color="#8b949e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Name -->
+  <text x="42" y="72"
+        font-family="'SF Pro Display','Segoe UI',system-ui,sans-serif"
+        font-size="38" font-weight="700" letter-spacing="-0.5"
+        fill="url(#nameGrad)">
+    Venkata Anil Kumar
+  </text>
+
+  <!-- Role badges row -->
+  <!-- AI Engineer pill -->
+  <rect x="42" y="90" width="102" height="22" rx="11"
+        fill="rgba(88,166,255,0.12)" stroke="rgba(88,166,255,0.3)" stroke-width="1"/>
+  <text x="93" y="105" text-anchor="middle"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11" font-weight="600" fill="#58a6ff">AI Engineer</text>
+
+  <!-- Agentic AI pill -->
+  <rect x="152" y="90" width="100" height="22" rx="11"
+        fill="rgba(210,168,255,0.12)" stroke="rgba(210,168,255,0.3)" stroke-width="1"/>
+  <text x="202" y="105" text-anchor="middle"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11" font-weight="600" fill="#d2a8ff">Agentic AI</text>
+
+  <!-- Full Stack pill -->
+  <rect x="260" y="90" width="86" height="22" rx="11"
+        fill="rgba(63,185,80,0.12)" stroke="rgba(63,185,80,0.3)" stroke-width="1"/>
+  <text x="303" y="105" text-anchor="middle"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11" font-weight="600" fill="#3fb950">Full Stack</text>
+
+  <!-- Autonomous AI pill -->
+  <rect x="354" y="90" width="116" height="22" rx="11"
+        fill="rgba(240,136,62,0.12)" stroke="rgba(240,136,62,0.3)" stroke-width="1"/>
+  <text x="412" y="105" text-anchor="middle"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11" font-weight="600" fill="#f0883e">Autonomous AI</text>
+
+  <!-- Tagline -->
+  <text x="42" y="140"
+        font-family="'SF Pro Text','Segoe UI',system-ui,sans-serif"
+        font-size="13.5" fill="#6e7681" letter-spacing="0.01em">
+    Building AI systems that run in production — not just in demos.
+  </text>
+
+  <!-- Right side: decorative terminal snippet -->
+  <text x="618" y="58"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11.5" fill="#30363d">
+    ◆ orchestrator     ✓
+  </text>
+  <text x="618" y="76"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11.5" fill="#30363d">
+    ◆ market_intel     ✓
+  </text>
+  <text x="618" y="94"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11.5" fill="#30363d">
+    ◆ audience_insight ✓
+  </text>
+  <text x="618" y="112"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11.5" fill="#484f58">
+    ◆ launch_strategy  ✓
+  </text>
+  <text x="618" y="130"
+        font-family="'SF Mono','Fira Code',Consolas,monospace"
+        font-size="11.5" fill="#3fb950">
+    → playbook ready  ✓
+  </text>
+
+  <!-- Accent line bottom -->
+  <rect y="158" width="860" height="2" fill="url(#topLine)"/>
+
+</svg>

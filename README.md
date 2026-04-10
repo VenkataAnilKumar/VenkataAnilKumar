@@ -1,18 +1,24 @@
 <div align="center">
 
-# Venkata Anil Kumar
+<img src="assets/banner.svg" alt="Venkata Anil Kumar — AI Engineer" width="100%"/>
 
-**AI Engineer** — multi-agent systems · agentic AI · full-stack AI products
+<br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=VenkataAnilKumar&style=flat-square&color=58a6ff&label=profile+views)](https://github.com/VenkataAnilKumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkataanilkumar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vanilkumarch@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VenkataAnilKumar)
 
 </div>
 
 ---
 
 I build AI systems that go beyond prompts — multi-agent pipelines with real memory, tool use, human oversight, and eval-gated quality. My work spans the full stack: agent orchestration, async backends, streaming frontends, and production infrastructure. Everything I ship is designed to run at scale, not just in demos.
+
+---
+
+## Currently Building
+
+**[ALIV](https://github.com/VenkataAnilKumar/ALIV)** — Local-first document intelligence for legal & finance teams. On-device LLM inference, zero cloud dependency, Tauri desktop app. Private beta Q2 2026.
 
 ---
 

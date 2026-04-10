@@ -120,6 +120,55 @@ AI-powered startup control plane with a unified memory graph across GTM, hiring,
 
 ---
 
+## Skill Sets by Role
+
+### AI Engineer
+- LLM API integration (Anthropic, OpenAI, Bedrock) — streaming, tool use, structured output
+- Prompt engineering: system prompt design, few-shot, chain-of-thought, ReAct, Plan-and-Execute
+- Retrieval-Augmented Generation (RAG) — chunking strategies, embedding pipelines, hybrid search
+- Vector store design: Qdrant, Pinecone, pgvector — namespace strategy, filtering, ANN tuning
+- Extended Thinking (Claude Opus 4.6 budget_tokens) for deep reasoning tasks
+- LLM evaluation: relevance, hallucination rate, schema compliance, edit rate — Langfuse + CI gates
+- Token cost optimization: model routing (Opus → Sonnet → Haiku), context compression, caching
+
+### Agentic AI Engineer
+- Multi-agent orchestration: Orchestrator-Workers pattern, A2A protocol, agent-to-agent context handoff
+- Agent memory architecture: short-term (Redis), long-term (Qdrant vectors), structured (PostgreSQL)
+- Cognitive loop design: Perceive → Reason → Act → Validate → Reflect (ReAct in production)
+- Tool use & MCP: Tavily, HubSpot, Slack, GA4 — scope-gated execution with param validation
+- Output validation: Pydantic schema gates + hallucination heuristics on every agent response
+- Async agentic pipelines: Celery task queues, Redis pub/sub, SSE streaming to frontend
+- Agent SDK: Claude Agent SDK, LangChain, LlamaIndex — framework selection and trade-off analysis
+
+### Autonomous AI Engineer
+- Self-directed agent loop design: goal decomposition, subgoal generation, autonomous re-planning
+- Human-in-the-Loop (HITL) workflow architecture: structural pipeline pause/resume, not UX layer
+- Long-horizon task execution: multi-step planning with state persistence across sessions
+- Failure recovery: retry logic, fallback agents, graceful degradation under tool unavailability
+- Agent evaluation at scale: automated regression baselines, PR-blocking quality gates in CI/CD
+- Autonomous monitoring agents: anomaly detection, self-healing infrastructure, alert suppression
+- Safety constraints: scope enforcement, confirmation gates, action reversibility checks
+
+### Forward Deployed Engineer
+- Rapid prototyping: idea → working demo in days using AI-first development workflows
+- Customer-facing AI system design: translating business requirements into agent architectures
+- Integration engineering: REST APIs, webhooks, CRM (HubSpot), analytics (GA4), messaging (Slack)
+- Demo engineering: live agent pipelines, real-time SSE streaming, HITL approval UX
+- Technical discovery: system audits, gap analysis, AI readiness assessment for enterprise customers
+- On-site solutioning: whiteboarding agent architectures, scoping MVPs, unblocking implementations
+- Cross-functional communication: translating AI system complexity for non-technical stakeholders
+
+### AI Software Engineer
+- Full-stack AI product development: FastAPI backend + Next.js 15 frontend + agent layer
+- Production code quality: type safety (Pydantic v2, TypeScript strict), 90%+ test coverage, CI gates
+- Database design for AI workloads: schema design, async SQLAlchemy, Alembic migrations
+- Real-time systems: Server-Sent Events, Redis pub/sub, WebSocket streaming for live agent output
+- Security-aware AI development: OWASP mitigations, Clerk JWT auth, rate limiting, PII scrubbing
+- DevOps for AI: GitHub Actions pipelines, Docker, AWS CDK v2, Lambda per-agent deployment
+- Observability: Langfuse traces, Sentry error tracking, structured logging, p50/p95 latency monitoring
+
+---
+
 ## Open To
 
 Full-time **AI Engineer** roles — companies building real AI products where multi-agent architecture, memory design, and eval-driven quality matter. Also open to founding team and early-stage positions.

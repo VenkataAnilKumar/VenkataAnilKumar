@@ -1,90 +1,133 @@
-# 👋 Hi — I'm Venkata Anil Kumar
+<div align="center">
 
-Senior Software Engineer • Backend, Cloud & Platform • AI / LLMs / Agents
+# Venkata Anil Kumar
 
-I build production-ready backend systems and cloud-native platforms. I design and operate end-to-end LLM applications, autonomous agents, and AI infrastructure for real-world production use.
+**AI Engineer** — building production multi-agent systems, full-stack AI products, and autonomous infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/venkataanilkumar/) • [Website](https://venkataanilkumar.dev) • [Email](mailto:hello@venkataanilkumar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkataanilkumar)
+[![Email](https://img.shields.io/badge/Email-vanilkumarch%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanilkumarch@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-VenkataAnilKumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataAnilKumar)
 
----
-
-## Focus Areas
-
-AI / LLMs / Agents • RAG • Vector Databases • Cloud-native Platforms • Production AI
+</div>
 
 ---
 
-## Expertise
+## What I Build
 
-- Backend & Databases: Python, Go, C++, FastAPI, PostgreSQL
-- Cloud & Platform: Kubernetes, Docker, Terraform, AWS, Azure, GitHub Actions, ArgoCD
-- AI Systems: LangChain, LlamaIndex, OpenAI API, FAISS, Chroma, Weaviate, RAG, multi-agent orchestration
-- Observability & SRE: Prometheus, Grafana, ELK, SLOs, monitoring & alerting
-- Leadership & Documentation: ADRs, runbooks, mentoring, open-source contributions
+I design and ship **multi-agent AI systems** — from orchestration architecture and memory design to streaming frontends and eval pipelines. Every project here is production-architected: real schemas, CI gates, and infra.
 
 ---
 
+## Projects
+
+### [LaunchIQ](https://github.com/VenkataAnilKumar/LaunchIQ) — AI-Powered Product Launch Intelligence
+
+> *Your AI launch team. First strategy in 10 minutes.*
+
+6-agent pipeline that turns one product prompt into a complete launch playbook — market research, buyer personas, GTM strategy, campaign content, and analytics — with human-in-the-loop checkpoints at every stage.
+
+```
+Product Description
+  └── Orchestrator (Claude Opus 4.6)
+        ├── Market Intelligence  → Competitive brief + positioning gaps
+        ├── Audience Insight     → 3 research-backed buyer personas
+        ├── Launch Strategy      → Phased GTM plan + milestones
+        ├── Content Generation   → Email · social · paid ads
+        └── Analytics Feedback   → Performance tracking + optimization
+```
+
+`Claude Agent SDK` `MCP` `FastAPI` `Next.js 15` `React 19` `Tailwind v4` `PostgreSQL` `Qdrant` `Redis` `Langfuse` `AWS`
+
+---
+
+### [ARCHON](https://github.com/VenkataAnilKumar/Archon) — Frontier AI Architect SaaS
+
+> *From idea to infrastructure.*
+
+AI-powered system design platform. Input a product concept, get production-ready architecture — technology selections, component diagrams, ADRs, scalability analysis, and IaC scaffolding.
+
+`Claude Opus 4.6` `Next.js 15` `FastAPI` `AWS CDK` `Python 3.12`
+
+---
+
+### [ALIV](https://github.com/VenkataAnilKumar/ALIV) — Autonomous Local Intelligence Vault
+
+> *Local-first document intelligence for legal and finance.*
+
+Privacy-first AI document system that runs entirely on local hardware. Extracts clauses, identifies risk, answers questions across contract libraries — no data ever leaves the machine.
+
+`Claude` `LangChain` `FastAPI` `Qdrant (local)` `Tauri` `React` `Python`
+
+---
+
+### [AgentClaw](https://github.com/VenkataAnilKumar/AgentClaw) — Startup AI Agent Framework
+
+> *Your startup's first AI teammates. In Slack, where you already work.*
+
+Open-source agent framework for founding teams. GTM, hiring, finance, dev, and legal agents — shared company memory, OKR-aware, human approval before any critical action. Model-agnostic.
+
+`Claude Agent SDK` `Slack SDK` `Redis` `FastAPI` `Python 3.12`
+
+---
+
+### [FounderOS](https://github.com/VenkataAnilKumar/FounderOS) — Autonomous AI OS for Startups
+
+> *The autonomous AI operating system for startups.*
+
+AI-powered startup control plane with a unified memory graph across GTM, hiring, finance, and product operations. Combines autonomous agents with a structured decision and task layer.
+
+`Claude Opus 4.6` `Next.js 15` `FastAPI` `Redis` `PostgreSQL`
+
+---
 
 ## Tech Stack
 
-<p>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-	<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-	<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-	<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-	<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=faiss&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge&logo=chroma&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+**AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude_Opus%2FSonnet%2FHaiku-d97706?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6366f1?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-evals-f97316?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri_2.x-FFC131?style=flat-square&logo=tauri&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK_v2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
+## Open To
 
-## Highlights
-
-- 7+ years building and scaling production backend systems and cloud-native platforms
-- Strong expertise in distributed systems, observability, and platform reliability
-- Delivering robust, scalable, and maintainable solutions for complex business needs
-- Actively exploring and learning AI, LLMs, and agent-based architectures for real-world applications
-- Collaborative team player with a passion for mentoring and continuous improvement
+Full-time **AI Engineer** roles — companies building real AI products where multi-agent architecture, memory design, and eval-driven quality matter. Also open to founding team and early-stage positions.
 
 ---
 
-## Open to
+<div align="center">
 
-- Collaboration on AI + platform projects
-- Mentoring & architecture reviews
-- Speaking or workshops on production LLMs and cloud-native systems
+**vanilkumarch@gmail.com** · [linkedin.com/in/venkataanilkumar](https://linkedin.com/in/venkataanilkumar)
 
----
-
-## Key Projects (pin these)
-
-- **[Agentic-AI-Engineer](https://github.com/VenkataAnilKumar/Agentic-AI-Engineer)** — Curated collection of resources, tools, and case studies for building autonomous AI agents and intelligent orchestration systems
-- **[System-Design-Case-Studies](https://github.com/VenkataAnilKumar/System-Design-Case-Studies)** — Real-world system design case studies with architecture breakdowns, scalability patterns, and design decisions
-- **[GenAIPlatform](https://github.com/VenkataAnilKumar/GenAIPlatform)** — Production-ready, cloud-agnostic GenAI platform with unified API, RAG pipelines, vector stores, and full observability stack
-- **[GenerativeAIProjects](https://github.com/VenkataAnilKumar/GenerativeAIProjects)** — Enterprise-grade GenAI platform with LLM apps, multimodal systems, LLMOps, and cloud deployment templates for AWS/Azure/GCP
-
----
-
-
-## Connect
-
-- LinkedIn: https://linkedin.com/in/venkataanilkumar
-- Twitter/X: https://twitter.com/venkataanilk
-- Website: https://venkataanilkumar.dev
-
----
-
-If you'd like, I can add a featured project section with screenshots or embed a short demo GIF (drop it into `assets/demo.gif`).
+</div>

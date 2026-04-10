@@ -12,6 +12,10 @@
 
 ---
 
+I build AI systems that go beyond prompts — multi-agent pipelines with real memory, tool use, human oversight, and eval-gated quality. My work spans the full stack: agent orchestration, async backends, streaming frontends, and production infrastructure. Everything I ship is designed to run at scale, not just in demos.
+
+---
+
 ## Projects
 
 | | Project | What it does |

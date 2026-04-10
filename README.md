@@ -67,6 +67,19 @@ I build AI systems that go beyond prompts — multi-agent pipelines with real me
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataAnilKumar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataAnilKumar&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VenkataAnilKumar&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
 ## Open To
 
 Full-time roles as **AI Engineer · Agentic AI Engineer · Autonomous AI Engineer · Forward Deployed Engineer · AI Software Engineer**

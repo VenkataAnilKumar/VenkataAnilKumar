@@ -27,7 +27,7 @@ I build AI systems that go beyond prompts — multi-agent pipelines with real me
 | | Project | What it does |
 |---|---|---|
 | 🚀 | [**LaunchIQ**](https://github.com/VenkataAnilKumar/LaunchIQ) | 6-agent pipeline → complete product launch playbook in 10 min |
-| 🏗️ | [**ARCHON**](https://github.com/VenkataAnilKumar/Archon) | AI system architect — idea to production infrastructure |
+| 🏗️ | [**ARCHON**](https://github.com/VenkataAnilKumar/ArchonAI) | AI system architect — idea to production infrastructure |
 | 🔒 | [**ALIV**](https://github.com/VenkataAnilKumar/ALIV) | Local-first document intelligence for legal & finance |
 | 🦞 | [**AgentClaw**](https://github.com/VenkataAnilKumar/AgentClaw) | Open-source AI agent framework for founding teams |
 | ⚙️ | [**FounderOS**](https://github.com/VenkataAnilKumar/FounderOS) | Autonomous AI operating system for startups |

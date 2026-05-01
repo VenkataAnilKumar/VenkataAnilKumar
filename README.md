@@ -46,16 +46,6 @@ I design and build AI systems that actually work in production. My focus is on t
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataAnilKumar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 ## Skills
 
 **AI & Agents**

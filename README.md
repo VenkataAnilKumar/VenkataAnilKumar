@@ -29,20 +29,19 @@ I design and build AI systems that actually work in production. My focus is on t
 | Project | Focus | Value |
 |---|---|---|
 | [Qvora](https://github.com/VenkataAnilKumar/Qvora) | Creative intelligence SaaS | Turns a product URL into polished video ads with no manual creative work |
+| [SELPH](https://github.com/VenkataAnilKumar/SELPH) | Personal AI digital twin | Drafts replies in your voice across email and social — nothing sends without your approval |
 | [LaunchIQ](https://github.com/VenkataAnilKumar/LaunchIQ) | Multi-agent GTM automation | Cuts GTM planning from weeks to hours with an automated launch playbook |
 | [Optivue](https://github.com/VenkataAnilKumar/Optivue) | AI analytics platform | Faster operational decisions with AI-surfaced insights and anomaly detection |
-| [ParallaxAI](https://github.com/VenkataAnilKumar/ParallaxAI) | Intelligent automation platform | Eliminates manual coordination overhead with autonomous product workflows |
-| [ALIV](https://github.com/VenkataAnilKumar/ALIV) | Local-first document intelligence | Secure, private AI for legal and finance document review — no data leaves the machine |
 | [ArchonAI](https://github.com/VenkataAnilKumar/ArchonAI) | Agent architecture toolkit | Reusable patterns for building reliable, production-grade agent systems |
 
 ---
 
 ## Core Expertise
 
-- **Agentic AI** — multi-agent orchestration, tool use, memory, planning loops, and autonomous workflow design
-- **AI Backend** — LLM application engineering, RAG pipelines, prompt architecture, evals, and scalable AI APIs
-- **AI Full Stack Product** — end-to-end product execution from backend systems to production-grade UIs
-- **Forward Deployed Engineering** — embedding directly with customers to scope, build, and ship AI solutions fast
+- **Agentic AI** — designing agents that reason, use tools, and act autonomously with human oversight
+- **AI Backend** — building the APIs, pipelines, and infrastructure that make AI products reliable in production
+- **AI Full Stack Product** — owning the full product: backend, frontend, mobile, and the AI layer
+- **Forward Deployed Engineering** — working directly with customers to scope, build, and ship AI solutions fast
 
 ---
 

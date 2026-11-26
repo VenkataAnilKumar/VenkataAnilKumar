@@ -78,7 +78,7 @@ I design and build AI systems that actually work in production. My focus is on t
 
 ## Open To
 
-AI Engineer, Agentic AI Engineer, Autonomous Systems Engineer, and Forward Deployed Engineering roles — remote or on-site.
+Applied AI Engineer, Applied AI Solution Architect, Agentic AI Engineer, AI Forward Deployed Engineer (FDE), AI Engineer, and Autonomous Systems Engineer roles — remote or on-site.
 
 <div align="center">
 <sub>vanilkumarch@gmail.com · linkedin.com/in/venkataanilkumar</sub>

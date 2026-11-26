@@ -18,21 +18,13 @@ I design and build AI systems that actually work in production. My focus is on t
 
 ## Currently Building
 
-**[Qvora](https://github.com/VenkataAnilKumar/Qvora)** — Creative intelligence platform that takes a product URL and generates short-form video ads end-to-end. Built on an agentic pipeline that scores output quality, learns from performance signals, and continuously improves creative results without manual iteration.
+**[NortPole](https://github.com/VenkataAnilKumar/NortPole)** — Governed AI workspace that answers questions and runs multi-step work over a company's own knowledge, with cited results. You approve the plan before work runs and the exact draft before anything leaves, and every action lands in a tamper-evident audit log. *Pilot preview.*
 
-**[SELPH](https://github.com/VenkataAnilKumar/SELPH)** — Personal AI digital twin that learns your voice, expertise, and communication style to draft replies across Instagram, Gmail, and more — nothing sends without your approval. Built on LangGraph with human-in-the-loop orchestration, voice cloning, and full audit trails.
+**[NorthWritX](https://github.com/VenkataAnilKumar/NorthWritX)** — Legal workspace for Canadian law firms and in-house teams that brings matter files, source previews, and reusable AI review workflows together across web and desktop. *Development preview.*
 
----
+**[NorthCX](https://github.com/VenkataAnilKumar/NorthCX)** — Open-source, self-hosted platform for AI agents that resolve customer issues end to end, on local and cloud models. Risky actions wait for human approval, and changes are tested before customers see them. *Release candidate.*
 
-## Flagship Projects
-
-| Project | Focus | Value |
-|---|---|---|
-| [Qvora](https://github.com/VenkataAnilKumar/Qvora) | Creative intelligence SaaS | Turns a product URL into polished video ads with no manual creative work |
-| [SELPH](https://github.com/VenkataAnilKumar/SELPH) | Personal AI digital twin | Drafts replies in your voice across email and social — nothing sends without your approval |
-| [LaunchIQ](https://github.com/VenkataAnilKumar/LaunchIQ) | Multi-agent GTM automation | Cuts GTM planning from weeks to hours with an automated launch playbook |
-| [Optivue](https://github.com/VenkataAnilKumar/Optivue) | AI analytics platform | Faster operational decisions with AI-surfaced insights and anomaly detection |
-| [ArchonAI](https://github.com/VenkataAnilKumar/ArchonAI) | Agent architecture toolkit | Reusable patterns for building reliable, production-grade agent systems |
+**[ALIV](https://github.com/VenkataAnilKumar/ALIV)** — Audited Local Intelligence Vault that gives legal and finance teams cited answers over client documents kept on their own machines. Local by default, cloud only when a matter's policy allows it, with a tamper-evident audit log. Built with Rust, Tauri, and React. *Pre-release.*
 
 ---
 
